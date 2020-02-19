@@ -30,7 +30,7 @@ char msg;
 int sensorPin = 8;
 int piezoPin = 12;
 int gas_value;
-String mblNo = "+917776096117";
+String mblNo = "+91_MOBILE_NUMBER";
 
 void setup()
 {
