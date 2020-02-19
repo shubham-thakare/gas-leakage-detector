@@ -1,7 +1,7 @@
 # Gas Leakage Detector
-Arduino based project which helps us to detect the gas leakage.
+An arduino (microcontroller) based project which helps us to detect the gas leakage.
 
-This project requires hardware for detecting the gas leakage and you can find the schematic along with the sufficient details of hardware.
+This project requires hardware and you can find the schematics along with the sufficient details of hardware in the schematics folder.
 
 ## Hardware requirements
 1. Arduino Uno R3
