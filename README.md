@@ -10,3 +10,8 @@ This project requires hardware and you can find the schematics along with the su
 4. SIM900A GSM Module
 5. Push Button
 6. Piezo Buzzer
+
+## Libraries required
+1. SoftwareSerial
+2. Wire
+3. LiquidCrystal_I2C
