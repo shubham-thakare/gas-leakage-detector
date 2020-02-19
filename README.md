@@ -9,4 +9,4 @@ This project requires hardware and you can find the schematics along with the su
 3. 16x2 CLCD with I2C
 4. SIM900A GSM Module
 5. Push Button
-6. Buzzer
+6. Piezo Buzzer
